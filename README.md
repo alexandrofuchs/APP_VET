@@ -13,12 +13,12 @@
 
 * Vá para https://github.com/alexandrofuchs/APP_VET;
 * Clique em "Clone or download" e "Download ZIP";
-* Descompacte o arquivo baixado e abra a pasta "APP_VET";
+* Descompacte o arquivo baixado e abra a pasta "App_Veterinaria-master";
 * O arquivo principal é o "APP_VET.sln";
 
 # Configuração e execução
 
-* Com o Visual Studio Community e a aplicação baixados, Abra o arquivo "APP_VET.sln", que está na pasta "APP_VET";
+* Com o Visual Studio Community e a aplicação baixados, Abra o arquivo "APP_VET.sln", que está na pasta "App_Veterinaria";
 * Clique em "Iniciar" (ou F5 no teclado) para compilar e executar a aplicação;
 
 # Conteúdo do repositório
