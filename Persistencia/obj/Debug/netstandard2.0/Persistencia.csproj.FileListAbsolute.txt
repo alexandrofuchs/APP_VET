@@ -1,0 +1,96 @@
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.deps.json
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.dll
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.pdb
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CopyComplete
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.dll
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\Alexandro\Desktop\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+C:\Users\Alexandro\Desktop\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Alexandro\Desktop\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Alexandro\Desktop\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+C:\Users\Alexandro\Desktop\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.dll
+C:\Users\Alexandro\Desktop\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\Alexandro\Desktop\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.deps.json
+C:\Users\Alexandro\Desktop\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Users\Alexandro\Desktop\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\Alexandro\Desktop\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\Alexandro\Desktop\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\Alexandro\Desktop\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CopyComplete
+F:\alexa\Desktop\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.deps.json
+F:\alexa\Desktop\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.dll
+F:\alexa\Desktop\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.pdb
+F:\alexa\Desktop\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+F:\alexa\Desktop\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache
+F:\alexa\Desktop\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+F:\alexa\Desktop\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+F:\alexa\Desktop\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CopyComplete
+F:\alexa\Desktop\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.dll
+F:\alexa\Desktop\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.pdb
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.deps.json
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.dll
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.pdb
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.dll
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.pdb
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CopyComplete
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.dll
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.pdb
+F:\alexa\Desktop\APP_VET\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.deps.json
+F:\alexa\Desktop\APP_VET\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.dll
+F:\alexa\Desktop\APP_VET\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.pdb
+F:\alexa\Desktop\APP_VET\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\APP_VET\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+F:\alexa\Desktop\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache
+F:\alexa\Desktop\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+F:\alexa\Desktop\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+F:\alexa\Desktop\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CopyComplete
+F:\alexa\Desktop\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.dll
+F:\alexa\Desktop\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.deps.json
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CopyComplete
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.dll
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.pdb
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.deps.json
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.dll
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.pdb
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CopyComplete
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.dll
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.pdb
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.deps.json
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.dll
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.pdb
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CopyComplete
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.dll
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.pdb

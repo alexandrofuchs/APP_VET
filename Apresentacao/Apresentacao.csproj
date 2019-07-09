@@ -1,0 +1,568 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D5959F2C-13AD-41CA-942D-12EAC19C5234}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Apresentacao</RootNamespace>
+    <AssemblyName>Apresentacao</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.EntityFrameworkCore, Version=2.2.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.EntityFrameworkCore.2.2.4\lib\netstandard2.0\Microsoft.EntityFrameworkCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.EntityFrameworkCore.Abstractions, Version=2.2.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.EntityFrameworkCore.Abstractions.2.2.4\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.EntityFrameworkCore.Relational, Version=2.2.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.EntityFrameworkCore.Relational.2.2.4\lib\netstandard2.0\Microsoft.EntityFrameworkCore.Relational.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.EntityFrameworkCore.SqlServer, Version=2.2.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.EntityFrameworkCore.SqlServer.2.2.4\lib\netstandard2.0\Microsoft.EntityFrameworkCore.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Caching.Abstractions, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Caching.Abstractions.2.2.0\lib\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Caching.Memory, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Caching.Memory.2.2.0\lib\netstandard2.0\Microsoft.Extensions.Caching.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.2.2.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Abstractions, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.Abstractions.2.2.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Binder, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.Binder.2.2.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Binder.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.2.2.0\lib\net461\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.2.2.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.2.2.0\lib\netstandard2.0\Microsoft.Extensions.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.2.2.0\lib\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Options, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Options.2.2.0\lib\netstandard2.0\Microsoft.Extensions.Options.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=2.2.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Primitives.2.2.0\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Remotion.Linq, Version=2.2.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Remotion.Linq.2.2.0\lib\net45\Remotion.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.4.0\lib\netstandard2.0\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Immutable, Version=1.2.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Collections.Immutable.1.5.0\lib\netstandard2.0\System.Collections.Immutable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ComponentModel.Annotations.4.5.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlClient, Version=4.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SqlClient.4.6.0\lib\net461\System.Data.SqlClient.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.4.5.0\lib\net46\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Interactive.Async, Version=3.2.0.0, Culture=neutral, PublicKeyToken=94bc3704cddfc263, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Interactive.Async.3.2.0\lib\net46\System.Interactive.Async.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.1\lib\netstandard2.0\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.4.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.1\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Agendamentos\F_Agendamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agendamentos\F_Agendamento.Designer.cs">
+      <DependentUpon>F_Agendamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Agendamentos\F_AgendarServico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agendamentos\F_AgendarServico.Designer.cs">
+      <DependentUpon>F_AgendarServico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Animais\F_ConsultasAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Animais\F_ConsultasAnimal.Designer.cs">
+      <DependentUpon>F_ConsultasAnimal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Animais\F_DadosAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Animais\F_DadosAnimal.Designer.cs">
+      <DependentUpon>F_DadosAnimal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Animais\F_ExamesAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Animais\F_ExamesAnimal.Designer.cs">
+      <DependentUpon>F_ExamesAnimal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Animais\F_NovoExame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Animais\F_NovoExame.Designer.cs">
+      <DependentUpon>F_NovoExame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Animais\F_ResumoConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Animais\F_ResumoConsulta.Designer.cs">
+      <DependentUpon>F_ResumoConsulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Animais\F_ResumoExame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Animais\F_ResumoExame.Designer.cs">
+      <DependentUpon>F_ResumoExame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buscas\F_BuscarAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buscas\F_BuscarAnimal.Designer.cs">
+      <DependentUpon>F_BuscarAnimal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buscas\F_BuscarVeterinario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buscas\F_BuscarVeterinario.Designer.cs">
+      <DependentUpon>F_BuscarVeterinario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Caixa\F_ContasReceber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Caixa\F_ContasReceber.Designer.cs">
+      <DependentUpon>F_ContasReceber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\F_EfetuarPagamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\F_EfetuarPagamento.Designer.cs">
+      <DependentUpon>F_EfetuarPagamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_AbrirForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_AbrirForm.Designer.cs">
+      <DependentUpon>F_AbrirForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AcaoConfirmacao.cs" />
+    <Compile Include="F_Confirmacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_Confirmacao.Designer.cs">
+      <DependentUpon>F_Confirmacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_TelaDeMensagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_TelaDeMensagem.Designer.cs">
+      <DependentUpon>F_TelaDeMensagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\F_ContasCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\F_ContasCliente.Designer.cs">
+      <DependentUpon>F_ContasCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_Principal.Designer.cs">
+      <DependentUpon>F_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buscas\F_BuscarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buscas\F_BuscarCliente.Designer.cs">
+      <DependentUpon>F_BuscarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\F_AnimaisCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\F_AnimaisCliente.Designer.cs">
+      <DependentUpon>F_AnimaisCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\F_DadosCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\F_DadosCliente.Designer.cs">
+      <DependentUpon>F_DadosCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Animais\F_PaginaAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Animais\F_PaginaAnimal.Designer.cs">
+      <DependentUpon>F_PaginaAnimal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\F_PaginaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\F_PaginaCliente.Designer.cs">
+      <DependentUpon>F_PaginaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registros\F_AbrirAtendimento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registros\F_AbrirAtendimento.Designer.cs">
+      <DependentUpon>F_AbrirAtendimento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registros\F_AtualizarProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registros\F_AtualizarProduto.Designer.cs">
+      <DependentUpon>F_AtualizarProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registros\F_RegistrarAtendimento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registros\F_RegistrarAtendimento.Designer.cs">
+      <DependentUpon>F_RegistrarAtendimento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registros\F_RegistroProdutosServicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registros\F_RegistroProdutosServicos.Designer.cs">
+      <DependentUpon>F_RegistroProdutosServicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registros\F_RegistrarAnimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registros\F_RegistrarAnimal.Designer.cs">
+      <DependentUpon>F_RegistrarAnimal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registros\F_RegistrarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registros\F_RegistrarCliente.Designer.cs">
+      <DependentUpon>F_RegistrarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\F_RegistrarConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\F_RegistrarConsulta.Designer.cs">
+      <DependentUpon>F_RegistrarConsulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registros\F_RegistrarProdutoServico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registros\F_RegistrarProdutoServico.Designer.cs">
+      <DependentUpon>F_RegistrarProdutoServico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registros\F_RegistroClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registros\F_RegistroClientes.Designer.cs">
+      <DependentUpon>F_RegistroClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registros\F_RegistroAnimais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registros\F_RegistroAnimais.Designer.cs">
+      <DependentUpon>F_RegistroAnimais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registros\F_RegistroVeterinario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registros\F_RegistroVeterinario.Designer.cs">
+      <DependentUpon>F_RegistroVeterinario.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Agendamentos\F_Agendamento.resx">
+      <DependentUpon>F_Agendamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agendamentos\F_AgendarServico.resx">
+      <DependentUpon>F_AgendarServico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Animais\F_ConsultasAnimal.resx">
+      <DependentUpon>F_ConsultasAnimal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Animais\F_DadosAnimal.resx">
+      <DependentUpon>F_DadosAnimal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Animais\F_ExamesAnimal.resx">
+      <DependentUpon>F_ExamesAnimal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Animais\F_NovoExame.resx">
+      <DependentUpon>F_NovoExame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Animais\F_ResumoConsulta.resx">
+      <DependentUpon>F_ResumoConsulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Animais\F_ResumoExame.resx">
+      <DependentUpon>F_ResumoExame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buscas\F_BuscarAnimal.resx">
+      <DependentUpon>F_BuscarAnimal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buscas\F_BuscarVeterinario.resx">
+      <DependentUpon>F_BuscarVeterinario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Caixa\F_ContasReceber.resx">
+      <DependentUpon>F_ContasReceber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\F_EfetuarPagamento.resx">
+      <DependentUpon>F_EfetuarPagamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_Confirmacao.resx">
+      <DependentUpon>F_Confirmacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_TelaDeMensagem.resx">
+      <DependentUpon>F_TelaDeMensagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\F_ContasCliente.resx">
+      <DependentUpon>F_ContasCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_Principal.aa-DJ.resx">
+      <DependentUpon>F_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_Principal.resx">
+      <DependentUpon>F_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buscas\F_BuscarCliente.resx">
+      <DependentUpon>F_BuscarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\F_AnimaisCliente.resx">
+      <DependentUpon>F_AnimaisCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\F_DadosCliente.resx">
+      <DependentUpon>F_DadosCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Animais\F_PaginaAnimal.resx">
+      <DependentUpon>F_PaginaAnimal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\F_PaginaCliente.resx">
+      <DependentUpon>F_PaginaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registros\F_AbrirAtendimento.resx">
+      <DependentUpon>F_AbrirAtendimento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registros\F_AtualizarProduto.resx">
+      <DependentUpon>F_AtualizarProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registros\F_RegistrarAtendimento.resx">
+      <DependentUpon>F_RegistrarAtendimento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registros\F_RegistroProdutosServicos.resx">
+      <DependentUpon>F_RegistroProdutosServicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registros\F_RegistrarAnimal.resx">
+      <DependentUpon>F_RegistrarAnimal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registros\F_RegistrarCliente.resx">
+      <DependentUpon>F_RegistrarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\F_RegistrarConsulta.resx">
+      <DependentUpon>F_RegistrarConsulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registros\F_RegistrarProdutoServico.resx">
+      <DependentUpon>F_RegistrarProdutoServico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registros\F_RegistroClientes.resx">
+      <DependentUpon>F_RegistroClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Registros\F_RegistroAnimais.resx">
+      <DependentUpon>F_RegistroAnimais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registros\F_RegistroVeterinario.resx">
+      <DependentUpon>F_RegistroVeterinario.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Modelo\Modelo.csproj">
+      <Project>{6613C0CB-C2D9-4004-993F-CCDCB6CF3AE3}</Project>
+      <Name>Modelo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Servico\Servico.csproj">
+      <Project>{2DA9A1CC-864D-49B8-891E-2857224DB8C3}</Project>
+      <Name>Servico</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clients.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\animais.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Atualizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inserir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Restaurar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Find.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\schedule.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Agendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancelar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancelar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cancelar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userADD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userADD1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Salvar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Confirm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clients2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clients21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Agenda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agenda2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Proprietario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calendar1.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\Calendar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agenda5.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

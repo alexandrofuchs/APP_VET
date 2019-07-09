@@ -1,0 +1,72 @@
+F:\alexa\Desktop\Projeto Final\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+F:\alexa\Desktop\Projeto Final\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\Projeto Final\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\Projeto Final\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+F:\alexa\Desktop\Projeto Final\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+F:\alexa\Desktop\Projeto Final\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+F:\alexa\Desktop\Projeto Final\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+F:\alexa\Desktop\Projeto Final\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\Projeto Final\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+C:\Users\Alexandro\Desktop\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+C:\Users\Alexandro\Desktop\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\Alexandro\Desktop\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\Alexandro\Desktop\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+C:\Users\Alexandro\Desktop\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Alexandro\Desktop\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\Alexandro\Desktop\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+C:\Users\Alexandro\Desktop\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+C:\Users\Alexandro\Desktop\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+F:\alexa\Desktop\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+F:\alexa\Desktop\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+F:\alexa\Desktop\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+F:\alexa\Desktop\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+F:\alexa\Desktop\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\APP_VET\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+F:\alexa\Desktop\APP_VET\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\APP_VET\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+F:\alexa\Desktop\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+F:\alexa\Desktop\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+F:\alexa\Desktop\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.pdb

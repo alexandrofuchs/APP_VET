@@ -1,0 +1,112 @@
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.deps.json
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.dll
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.pdb
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.dll
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.pdb
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csprojAssemblyReference.cache
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CoreCompileInputs.cache
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfoInputs.cache
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfo.cs
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CopyComplete
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.dll
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.pdb
+C:\Users\Alexandro\Desktop\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csprojAssemblyReference.cache
+C:\Users\Alexandro\Desktop\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CoreCompileInputs.cache
+C:\Users\Alexandro\Desktop\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfoInputs.cache
+C:\Users\Alexandro\Desktop\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfo.cs
+C:\Users\Alexandro\Desktop\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.dll
+C:\Users\Alexandro\Desktop\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.pdb
+C:\Users\Alexandro\Desktop\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.deps.json
+C:\Users\Alexandro\Desktop\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.dll
+C:\Users\Alexandro\Desktop\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.pdb
+C:\Users\Alexandro\Desktop\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\Alexandro\Desktop\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Users\Alexandro\Desktop\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\Alexandro\Desktop\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\Alexandro\Desktop\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CopyComplete
+F:\alexa\Desktop\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.deps.json
+F:\alexa\Desktop\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.dll
+F:\alexa\Desktop\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.pdb
+F:\alexa\Desktop\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.dll
+F:\alexa\Desktop\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.pdb
+F:\alexa\Desktop\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csprojAssemblyReference.cache
+F:\alexa\Desktop\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CoreCompileInputs.cache
+F:\alexa\Desktop\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfoInputs.cache
+F:\alexa\Desktop\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfo.cs
+F:\alexa\Desktop\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CopyComplete
+F:\alexa\Desktop\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.dll
+F:\alexa\Desktop\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.pdb
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.deps.json
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.dll
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.pdb
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.dll
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.dll
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.pdb
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.pdb
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csprojAssemblyReference.cache
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CoreCompileInputs.cache
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfoInputs.cache
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfo.cs
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CopyComplete
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.dll
+F:\UTFPR\2019.1\3. Programação Orientada a Objetos\ProjetoFinal(manterAtualizado)\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.pdb
+F:\alexa\Desktop\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.deps.json
+F:\alexa\Desktop\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.dll
+F:\alexa\Desktop\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.pdb
+F:\alexa\Desktop\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.dll
+F:\alexa\Desktop\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.pdb
+F:\alexa\Desktop\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csprojAssemblyReference.cache
+F:\alexa\Desktop\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CoreCompileInputs.cache
+F:\alexa\Desktop\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfoInputs.cache
+F:\alexa\Desktop\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfo.cs
+F:\alexa\Desktop\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CopyComplete
+F:\alexa\Desktop\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.dll
+F:\alexa\Desktop\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.pdb
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.deps.json
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.dll
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.pdb
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csprojAssemblyReference.cache
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CoreCompileInputs.cache
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfoInputs.cache
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfo.cs
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CopyComplete
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.dll
+C:\Users\Alexandro\Desktop\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.pdb
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.deps.json
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.dll
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.pdb
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.dll
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.pdb
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csprojAssemblyReference.cache
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CoreCompileInputs.cache
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfoInputs.cache
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfo.cs
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CopyComplete
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.dll
+F:\alexa\Desktop\APP_VET\APP_VET\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.pdb
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.deps.json
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.dll
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.pdb
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.dll
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.pdb
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csprojAssemblyReference.cache
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CoreCompileInputs.cache
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfoInputs.cache
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfo.cs
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CopyComplete
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.dll
+F:\alexa\Desktop\APP_VET_AlexandroFuchs\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.pdb
