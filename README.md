@@ -18,7 +18,7 @@
 
 # Configuração e execução
 
-* Com o Visual Studio Community e a aplicação baixados, Abra o arquivo "APP_VET.sln", que está na pasta "App_Veterinaria";
+* Com o Visual Studio Community e a aplicação baixados, Abra o arquivo "APP_VET.sln";
 * Clique em "Iniciar" (ou F5 no teclado) para compilar e executar a aplicação;
 
 # Conteúdo do repositório
