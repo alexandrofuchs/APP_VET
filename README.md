@@ -21,10 +21,10 @@ O aplicativo foi desenvolvido em C# utilizando o Visual Studio Community 2017 (v
 # Conteúdo do repositório
 O repositório contém as pastas:
 
-* Apresentacao: Camada do Projeto onde se encontram as Telas(Interfaces) Feitas com Windows Forms, que compoem o sistema;
-* Modelo: Camada onde encontra-se o modelo de negócio do sistema, as Classes(Entidades) do projeto;
-* Persistencia: Camada onde encontram-se as Classes referente a conexão com o Banco de Dados(Entity Framework Core com SQL server)  como também sua configuração de Conexão e Classes Referente a Operações e Métodos de repositório para o banco;
-* Servico: Camada responsavel por fazer a conexão entre a camada de Apresentação e Persistencia, onde também são feitas as Validações dos Dados Capturados na camada de Apresentação;
+* Apresentacao: Camada do projeto onde se encontram as Telas(Interfaces) feitas com Windows Forms, que compoem o sistema;
+* Modelo: Camada onde encontram-se o modelo de negócio do sistema, as classes(Entidades) do projeto;
+* Persistencia: Camada onde encontram-se as Classes referente a conexão com o Banco de Dados(Entity Framework Core com SQL server)  como também sua configuração de conexão e as classes referente a operações e métodos para repositório no banco de dados;
+* Servico: Camada responsavel por fazer a conexão entre a camada de Apresentação e Persistência, onde também são feitas as Validações dos dados capturados na camada de Apresentação;
 * APP_VET.sln: Inicializador da Aplicação(Solução).
 # IMPORTANTE
 * Não foram feitos testes da aplicação em um ambiente real, não havendo portando nenhuma garantia de sua estabilidade.
