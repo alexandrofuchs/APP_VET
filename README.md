@@ -11,7 +11,7 @@
 
 # Instalação da Aplicação
 
-* Vá para https://github.com/alexandrofuchs/APP_VET;
+* Vá para https://github.com/alexandrofuchs/App_Veterinaria;
 * Clique em "Clone or download" e "Download ZIP";
 * Descompacte o arquivo baixado e abra a pasta "App_Veterinaria-master";
 * O arquivo principal é o "APP_VET.sln";
